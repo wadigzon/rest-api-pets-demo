@@ -2,7 +2,9 @@
 Rest api server with consuming client and swagger documentation as well
 
 To run server
-$ npm start
+
+*$ npm start*
 
 To run client
-$ yarn review
+
+*$ yarn review*
